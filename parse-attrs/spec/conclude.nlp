@@ -1,0 +1,13 @@
+###############################################
+# FILE: conclude
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-11-25 9:7:25
+# MODIFIED:
+###############################################
+
+@CODE
+
+closefile(G("dict"));
+
+@@CODE

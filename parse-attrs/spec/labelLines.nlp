@@ -1,0 +1,25 @@
+###############################################
+# FILE: labelLines
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-11-25 9:1:23
+# MODIFIED:
+###############################################
+
+@NODES _attrBlock
+
+@POST
+pnrename(N(1),"_word");
+pnrename(N(2),"_zero");
+pnrename(N(3),"_attr");
+pnrename(N(4),"_type");
+pnrename(N(5),"_value");
+
+@RULES
+_xNIL <-
+	_LINE	### (1)
+	_LINE	### (2)
+	_LINE	### (3)
+	_LINE	### (4)
+	_LINE	### (5)
+	@@

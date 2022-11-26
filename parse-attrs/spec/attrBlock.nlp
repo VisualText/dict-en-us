@@ -1,0 +1,16 @@
+###############################################
+# FILE: attrBlock
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-11-25 8:51:26
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@RULES
+_attrBlock <-
+	_startAttr	### (1)
+	_xWILD [fail=(_endAttr)]
+	_endAttr
+	@@

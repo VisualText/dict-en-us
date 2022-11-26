@@ -1,0 +1,19 @@
+###############################################
+# FILE: word
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-11-25 9:10:25
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _attrBlock _word
+
+@POST
+X("word",2) = N("$text",1);
+
+@RULES
+_xNIL <-
+	_xALPHA
+	\"
+	_xEND
+	@@

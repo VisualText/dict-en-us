@@ -1,0 +1,17 @@
+###############################################
+# FILE: output
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-11-25 9:15:32
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+G("dict") << N("word") << " " << N("attr") << "=" << N("value") << "\n";
+
+@RULES
+_xNIL <-
+	_attrBlock	### (1)
+	@@

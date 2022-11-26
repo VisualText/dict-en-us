@@ -1,0 +1,21 @@
+###############################################
+# FILE: tags
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-11-25 8:47:3
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+X("tag") = 1;
+single();
+@RULES
+_startAttr <- ind attr @@
+
+@POST
+X("tag") = 1;
+single();
+@RULES
+_endAttr <- end ind @@

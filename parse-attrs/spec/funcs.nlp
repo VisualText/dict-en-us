@@ -1,0 +1,30 @@
+###############################################
+# FILE: funcs
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-11-25 9:26:58
+# MODIFIED:
+###############################################
+
+@DECL
+
+PartOfSpeech(L("pos")) {
+	if (L("pos") == "noun") {
+		L("pos") = "n";
+	} else if (L("pos") == "verb") {
+		L("pos") = "v";
+	} else if (L("pos") == "adjective") {
+		L("pos") = "adj";
+	} else if (L("pos") == "adverb") {
+		L("pos") = "adv";
+	} else if (L("pos") == "pronoun") {
+		L("pos") = "pro";
+	} else if (L("pos") == "interj") {
+		L("pos") = "int";
+	} else if (L("pos") == "conjunction") {
+		L("pos") = "conj";
+	}
+	return L("pos");
+}
+
+@@DECL

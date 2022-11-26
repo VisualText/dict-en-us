@@ -1,0 +1,19 @@
+###############################################
+# FILE: value
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-11-25 9:12:29
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _attrBlock _value
+
+@POST
+X("value",2) = PartOfSpeech(N("$text",1));
+
+@RULES
+_xNIL <-
+	_xALPHA
+	\"
+	_xEND
+	@@

@@ -1,0 +1,19 @@
+###############################################
+# FILE: init
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-11-25 9:6:12
+# MODIFIED:
+###############################################
+
+@CODE
+
+L("filename") = G("$kbpath") + "\\en.dict";
+
+if (G("$isfirstfile")) {
+	G("dict") = openfile(L("filename"));
+} else {
+	G("dict") = openfile(L("filename"),"app");
+}
+
+@@CODE

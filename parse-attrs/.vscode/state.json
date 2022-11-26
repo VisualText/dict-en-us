@@ -1,0 +1,10 @@
+{
+    "visualText": [
+        {
+            "name": "Analyzer",
+            "type": "state",
+            "currentTextFile": "c:\\git\\nlp-engine\\analyzers\\parse-attrs\\kb\\user\\all.dict",
+            "currentPassFile": "c:\\git\\nlp-engine\\analyzers\\parse-attrs\\spec\\funcs.nlp"
+        }
+    ]
+}

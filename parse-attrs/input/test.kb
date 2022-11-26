@@ -1,0 +1,34 @@
+
+ind attr
+"concept" "sys" "dict" "a" "a" "aa" "aah"
+0
+"concept" "sys" "dict" "a" "p" "po" "pos"
+pst
+"verb"
+end ind
+
+ind attr
+"concept" "sys" "dict" "a" "a" "aa" "aah"
+0
+"concept" "sys" "dict" "a" "p" "po" "pos"
+pst
+"interj"
+end ind
+
+
+ind attr
+"concept" "sys" "dict" "a" "a" "aa" "aahed"
+0
+"concept" "sys" "dict" "a" "p" "po" "pos"
+pst
+"verb"
+end ind
+
+
+ind attr
+"concept" "sys" "dict" "a" "a" "aa" "aahing"
+0
+"concept" "sys" "dict" "a" "p" "po" "pos"
+pst
+"verb"
+end ind
