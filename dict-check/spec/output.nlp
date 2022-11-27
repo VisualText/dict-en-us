@@ -1,0 +1,13 @@
+###############################################
+# FILE: output
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-11-27 7:0:54
+# MODIFIED:
+###############################################
+
+@CODE
+
+DisplayKB(G("pos"),1);
+
+@@CODE

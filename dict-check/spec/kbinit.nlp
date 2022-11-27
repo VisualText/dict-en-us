@@ -1,0 +1,15 @@
+###############################################
+# FILE: kbinit
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-11-27 6:59:52
+# MODIFIED:
+###############################################
+
+@CODE
+
+G("pos") = findconcept(findroot(),"pos");
+if (!G("pos")) G("pos") = makeconcept(findroot(),"pos");
+rmchildren(G("pos"));
+
+@@CODE

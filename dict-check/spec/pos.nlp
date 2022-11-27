@@ -1,0 +1,21 @@
+###############################################
+# FILE: pos
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-11-27 6:59:13
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+L("con") = AddUniqueCon(G("pos"),N("$text",3));
+"pos.txt" << N("$text",3) << "\n";
+IncrementCount(L("con"),"count");
+
+@RULES
+_xNIL <-
+	pos		### (1)
+	\=		### (2)
+	_xALPHA	### (3)
+	@@
