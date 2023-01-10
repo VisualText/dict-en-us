@@ -1,0 +1,19 @@
+aclarubicin
+==English==
+{{wp}}
+
+===Etymology===
+From {{af|en||-rubicin|t2=daunorubicin derivative}}.
+
+{{rfe|en}}
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|pharmaceutical drug}} A particular [[drug]] used in [[chemotherapy]].
+
+====Translations====
+{{trans-top}}
+* Finnish: {{t|fi|aklarubisiini}}
+{{trans-mid}}
+{{trans-bottom}}

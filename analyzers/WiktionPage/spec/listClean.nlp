@@ -1,14 +1,17 @@
 ###############################################
-# FILE: kbinit
+# FILE: listClean
 # SUBJ: comment
 # AUTH: David de Hilster
-# CREATED: 2021-8-11 15:44:9
+# CREATED: 2023-1-9 16:44:9
 # MODIFIED:
 ###############################################
 
-@CODE
+@PATH _ROOT _LINE _list
 
-G("numbers") = getconcept(findroot(),"numbers");
-rmchildren(G("numbers"));
+@POST
+excise(1,1);
 
-@@CODE
+@RULES
+_xNIL <-
+	_curly	### (1)
+	@@

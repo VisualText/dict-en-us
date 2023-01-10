@@ -1,0 +1,22 @@
+acanthamoebiasis
+==English==
+
+===Etymology===
+{{m|mul|Acanthamoeba}} {{suffix|en||iasis|t2=disease caused by}}
+
+===Pronunciation===
+* {{a|US}} {{IPA|en|/əˌkæn.θə.miˈbaɪ.ə.sɪs/}}
+
+===Noun===
+{{en-noun|~|acanthamoebiases}}
+
+# {{lb|en|pathology}} A rare [[infection]] by [[amoeba]]s of the genus ''[[Acanthamoeba]]''.
+
+====Translations====
+{{trans-top|infection by amoebas of the genus ''Acanthamoeba''}}
+* Portuguese: {{t|pt|acantamebíase|f}}
+{{trans-mid}}
+* Zazaki: {{t|zza|acantamebíase}}
+{{trans-bottom}}
+
+[[Category:en:Amoebozoal diseases]]

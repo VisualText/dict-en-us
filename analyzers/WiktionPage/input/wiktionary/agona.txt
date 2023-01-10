@@ -1,0 +1,26 @@
+agona
+{{also|agoną}}
+==Polish==
+{{wp|lang=pl}}
+
+===Etymology===
+From {{af|pl|a-|-gonia}}.
+
+===Pronunciation===
+{{pl-p|a=LL-Q809 (pol)-Olaf-agona.wav}}
+
+===Noun===
+{{pl-noun|f}}
+
+# {{lb|pl|cartography|navigation}} [[agonic line]]
+#: {{hyper|pl|izogona}}
+
+====Declension====
+{{pl-decl-noun-f}}
+
+====Derived terms====
+{{col3|pl|title=adjective|agoniczny}}
+
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:pl:PWN}}

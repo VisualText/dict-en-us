@@ -1,0 +1,12 @@
+adicillin
+==English==
+
+===Etymology===
+From {{af|en||-cillin|t2=6-aminopenicillanic acid derivative}}.
+
+{{rfe|en}}
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|pharmaceutical drug}} A [[penicillin]] [[antibiotic]].

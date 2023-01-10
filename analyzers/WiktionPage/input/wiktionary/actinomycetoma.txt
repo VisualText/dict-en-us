@@ -1,0 +1,8 @@
+actinomycetoma
+==English==
+
+===Noun===
+{{wikipedia}}
+{{en-noun}}
+
+# {{lb|en|pathology}} A [[tumour]] produced by [[infection]] by [[Actinomyces]] [[bacterium|bacteria]]

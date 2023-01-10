@@ -1,0 +1,12 @@
+acrosyringium
+==English==
+
+===Noun===
+{{en-noun|acrosyringia}}
+
+# An [[intraepidermal]] [[spiral]] [[duct]] in the [[eccrine]] [[gland]].
+#* {{quote-journal|en|year=2015|date=|author=Han Ma et al.|title=Eccrine poroma and porocarcinoma on the same unusual location: report on two cases*|journal=Anais Brasileiros de Dermatologia|url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4540512/|doi=10.1590/abd1806-4841.20153415|volume=90|issue=|pages=
+|passage=Eccrine poroma is a benign adnexal tumour of the uppermost portion of the intraepidermal eccrine sweat gland duct and '''acrosyringium'''.}}
+
+====Derived terms====
+* {{l|en|acrosyringial}}

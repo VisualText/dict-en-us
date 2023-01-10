@@ -1,0 +1,25 @@
+agomelatine
+==English==
+
+===Noun===
+{{en-noun|-}}
+{{wikipedia}}
+
+# A [[melatonergic]] [[antidepressant]].
+
+====Translations====
+{{trans-top|drug}}
+* Finnish: {{t|fi|agomelatiini}}
+* Italian: {{t|it|agomelatina|f}}
+{{trans-mid}}
+* Portuguese: {{t|pt|agomelatina|f}}
+{{trans-bottom}}
+
+----
+
+==Italian==
+
+===Noun===
+{{head|it|noun form|g=f}}
+
+# {{plural of|it|agomelatina}}

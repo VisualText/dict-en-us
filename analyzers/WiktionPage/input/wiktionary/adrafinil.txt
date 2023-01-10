@@ -1,0 +1,14 @@
+adrafinil
+==English==
+
+===Noun===
+{{en-noun|-}}
+{{wikipedia}}
+
+# A mild [[stimulant]] of the [[central nervous system]] used to relieve excessive [[sleepiness]] and [[inattention]] in [[elderly]] patients.
+
+====Translations====
+{{trans-top|drug}}
+* Finnish: {{t|fi|adrafiniili}}
+{{trans-mid}}
+{{trans-bottom}}

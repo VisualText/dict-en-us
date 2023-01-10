@@ -1,14 +1,20 @@
 ###############################################
-# FILE: kbinit
+# FILE: lists
 # SUBJ: comment
 # AUTH: David de Hilster
-# CREATED: 2021-8-11 15:44:9
+# CREATED: 2023-1-9 15:8:5
 # MODIFIED:
 ###############################################
 
-@CODE
+@NODES _LINE
 
-G("numbers") = getconcept(findroot(),"numbers");
-rmchildren(G("numbers"));
+@POST
+X("up") = 1;
+single();
 
-@@CODE
+@RULES
+_list <-
+	\#	### (1)
+	_xWILD [fail=(_xEND)]
+	_xEND
+	@@

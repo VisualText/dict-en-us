@@ -1,0 +1,7 @@
+acetosulfone
+==English==
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|medicine}} The [[antibacterial]] / [[leprostatic]] [[sulfone]] ''N-[5-amino-2-(4-aminophenyl)sulfonylphenyl]sulfonylacetamide''

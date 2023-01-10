@@ -8,6 +8,6 @@
 
 @CODE
 
-DisplayKB(G("numbers"),1);
+DisplayKB(G("numbers"),0);
 
 @@CODE

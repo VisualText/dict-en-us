@@ -1,0 +1,17 @@
+acetyldigoxin
+==English==
+
+===Etymology===
+{{compound|en|acetyl|digoxin}}
+
+===Noun===
+{{en-noun|~}}
+{{wikipedia}}
+
+# A [[cardiac]] [[glycoside]], an [[acetyl]] [[derivative]] of [[digoxin]].
+
+====Translations====
+{{trans-top|drug}}
+* Finnish: {{t|fi|asetyylidigoksiini}}
+{{trans-mid}}
+{{trans-bottom}}

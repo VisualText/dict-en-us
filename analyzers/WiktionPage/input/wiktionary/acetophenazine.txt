@@ -1,0 +1,11 @@
+acetophenazine
+==English==
+
+===Etymology===
+From {{prefix|en|aceto|phenazine}}.
+
+===Noun===
+{{wikipedia}}
+{{en-noun|-}}
+
+# {{lb|en|medicine}} An [[antipsychotic]] / [[tranquilizer]] of the [[phenothiazine]] class

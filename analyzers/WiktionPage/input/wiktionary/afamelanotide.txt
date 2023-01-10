@@ -1,0 +1,16 @@
+afamelanotide
+==English==
+{{wikipedia}}
+
+===Etymology===
+From {{af|en||melano-|-tide|id3=pharmaceutical|t3=peptide, glycopeptide}}.
+
+{{rfe|en}}
+
+===Pronunciation===
+* {{audio|en|En-afamelanotide.oga|Audio}}
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|pharmaceutical drug}} A [[synthetic]] [[analogue]] of the naturally-occurring [[melanocortin]] [[peptide]] [[hormone]] alpha-melanocyte stimulating hormone (α-MSH) that has been shown to induce skin [[pigmentation]] through [[melanogenesis]].

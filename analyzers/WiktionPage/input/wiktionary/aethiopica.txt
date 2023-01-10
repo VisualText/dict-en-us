@@ -1,0 +1,12 @@
+aethiopica
+==Latin==
+
+===Adjective===
+{{la-adj-form|aethiopica}}
+
+# {{inflection of|la|aethiopicus||nom//voc|f|s|;|nom//acc//nom|n|p}}
+
+===Adjective===
+{{la-adj-form|aethiopicā}}
+
+# {{inflection of|la|aethiopicus||abl|f|s}}

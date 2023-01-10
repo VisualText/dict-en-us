@@ -1,0 +1,11 @@
+acetoxolone
+==English==
+
+===Pronunciation===
+* {{IPA|en|/ˌæsɪˈtɒksələʊn/}}
+
+===Noun===
+{{en-noun|-}}
+{{wikipedia}}
+
+# An [[acetyl]] [[derivative]] of [[glycyrrhetinic acid]] used to treat [[peptic ulcer]] and [[gastroesophageal reflux]].

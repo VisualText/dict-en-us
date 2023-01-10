@@ -1,0 +1,16 @@
+acetorphine
+==English==
+{{wikipedia}}
+
+===Etymology===
+From {{af|en|acetate|alt1=ac(etate)|etorphine}}.
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|pharmaceutical drug}} A particular [[narcotic]] [[painkiller]].
+
+===Anagrams===
+* {{anagrams|en|a=aceehinoprt|hepronicate}}
+
+[[Category:English terms suffixed with -orphine]]

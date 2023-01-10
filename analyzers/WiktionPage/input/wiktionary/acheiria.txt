@@ -1,0 +1,9 @@
+acheiria
+==English==
+
+===Noun===
+{{en-noun|-|s}}
+
+# The [[congenital]] absence of one or both [[hand]]s
+# A loss of [[sense]] in one or both hands, or the inability to tell on which side of the body a [[stimulus]] has been applied
+[[Category:en:Amputation]]

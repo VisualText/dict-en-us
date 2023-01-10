@@ -1,0 +1,11 @@
+agalactiae
+==Translingual==
+
+===Adjective===
+{{head|mul|adjective}}
+
+# [[agalactia]] (attributive); {{n-g|used as a [[specific epithet]]}}
+
+====Descendants====
+* {{taxlink|Mycoplasma agalactiae|species}}
+* {{taxlink|Streptococcus agalactiae|species}}

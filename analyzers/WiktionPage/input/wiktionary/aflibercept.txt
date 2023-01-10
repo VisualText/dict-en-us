@@ -1,0 +1,11 @@
+aflibercept
+==English==
+{{wikipedia}}
+
+===Pronunciation===
+* {{IPA|en|/əˈflɪbə(ɹ)sɛpt/}}
+
+===Noun===
+{{en-noun|-}}
+
+# A [[fusion protein]] under development for the treatment of [[cancer]].

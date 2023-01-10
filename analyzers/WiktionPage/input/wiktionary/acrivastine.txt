@@ -1,0 +1,16 @@
+acrivastine
+==English==
+
+===Noun===
+{{en-noun|-}}
+{{wikipedia}}
+
+# A particular [[antihistamine]] used to treat [[allergy|allergies]] and [[hay fever]].
+
+====Translations====
+{{trans-top|drug}}
+* Finnish: {{t|fi|akrivastiini}}
+* German: {{t|de|Acrivastin|n}}
+{{trans-mid}}
+* Portuguese: {{t|pt|acrivastina|f}}
+{{trans-bottom}}

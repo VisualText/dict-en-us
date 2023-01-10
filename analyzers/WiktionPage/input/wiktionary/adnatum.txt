@@ -1,0 +1,19 @@
+adnatum
+==English==
+
+===Noun===
+{{en-noun|adnata}}
+
+# {{lb|en|botany}} A small or secondary [[bulb]]
+
+===Anagrams===
+* {{anagrams|en|a=aadmntu|mutanda}}
+
+----
+
+==Latin==
+
+===Verb===
+{{la-verb-form|adnātum}}
+
+# {{inflection of|la|adnō||acc|sup}}

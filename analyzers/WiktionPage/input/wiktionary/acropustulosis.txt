@@ -1,0 +1,17 @@
+acropustulosis
+==English==
+
+===Etymology===
+{{af|en|acro-|pustule|-osis}}
+
+===Noun===
+{{en-noun|-}}
+{{wikipedia}}
+
+# [[acrodermatitis]] with [[pustular]] involvement
+
+====Translations====
+{{trans-top|acrodermatitis with pustular involvement}}
+* Portuguese: {{t|pt|acropustulose|f}}
+{{trans-mid}}
+{{trans-bottom}}

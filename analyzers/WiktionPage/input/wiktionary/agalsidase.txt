@@ -1,0 +1,9 @@
+agalsidase
+==English==
+
+===Noun===
+{{en-noun|~}}
+
+# {{lb|en|enzynme}} A form of [[alpha]]-[[galactosidase]]
+#* {{quote-journal|en|date=December 3, 2015|author=|title=Positron Emission Tomography and Magnetic Resonance Imaging of the Brain in Fabry Disease: A Nationwide, Long-Time, Prospective Follow-Up|journal=PLOS ONE|url=http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0143940|doi=10.1371/journal.pone.0143940|volume=|issue=|pages=
+|passage=Initially all treated patients received '''agalsidase''' beta (Fabrazyme ®, Genzyme (Cambridge, MA 02142)) 1 mg/kg intravenously every second week during the follow-up period.}}

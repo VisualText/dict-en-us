@@ -1,0 +1,7 @@
+adenocarcinofibroma
+==English==
+
+===Noun===
+{{en-noun}}
+
+# {{lb|en|pathology}} A [[cancerous]] form of [[adenofibroma]]

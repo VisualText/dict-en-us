@@ -1,0 +1,57 @@
+acetylcarnitine
+==English==
+{{wikipedia}}
+
+===Etymology===
+{{compound|en|acetyl|carnitine}}
+
+===Noun===
+{{en-noun|~}}
+
+# [[acetylated|Acetylated]] carinitine; a [[dietary supplement]] derived from [[carnitine]].
+#* {{quote-journal|en|date=2009-03-03|author=Peter Lueders|title=Feed Your Face|work=New York Times|url=http://www.nytimes.com/2008/02/24/style/tmagazine/24expert.html
+|passage=Her mostly organic diet is supplemented with black-currant oil, '''acetylcarnitine''' and silica capsules.}}
+
+====Synonyms====
+{{sense|acetylated carnitine}}
+* {{l|en|ACAR}} {{gloss|abbreviation}}
+* {{l|en|ACar}} {{gloss|abbreviation}}
+
+====Hyponyms====
+{{sense|acetylated carnitine}}
+{{top3}}
+* {{l|en|levoacetylcarninite}}
+* {{l|en|levo-acetylcarninite}}
+* {{l|en|L-acetylcarnitine}}
+* {{l|en|acetyl-L-carnitine}}
+* {{l|en|LAC}}
+* {{l|en|ALC}}
+* {{l|en|ALCAR}}
+* {{l|en|dextroacetylcarninite}}
+* {{l|en|dextro-acetylcarninite}}
+* {{l|en|D-acetylcarnitine}}
+* {{l|en|acetyl-D-carnitine}}
+* {{l|en|DAC}}
+* {{l|en|DL-acetylcarnitine}}
+* {{l|en|acetyl-DL-carnitine}}
+{{bottom}}
+
+====Derived terms====
+{{der-top|acetylated carnitine}}
+* {{l|en|ACAR}} {{qualifier|abbreviation}}
+* {{l|en|ACar}} {{qualifier|abbreviation}}
+* {{l|en|LAC}}
+* {{l|en|ALC}}
+* {{l|en|ALCAR}}
+* {{l|en|L-acetylcarnitine}}
+* {{l|en|acetyl-L-carnitine}}
+* {{l|en|levoacetylcarninite}}
+* {{l|en|levo-acetylcarninite}}
+* {{l|en|DAC}}
+* {{l|en|D-acetylcarnitine}}
+* {{l|en|acetyl-D-carnitine}}
+* {{l|en|dextroacetylcarninite}}
+* {{l|en|dextro-acetylcarninite}}
+* {{l|en|DL-acetylcarnitine}}
+* {{l|en|acetyl-DL-carnitine}}
+{{der-bottom}}

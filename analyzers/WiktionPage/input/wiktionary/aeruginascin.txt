@@ -1,0 +1,11 @@
+aeruginascin
+==English==
+{{wikipedia}}
+
+===Etymology===
+{{der|en|mul|aeruginascens}} {{suffix|en||in}}
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|organic compound}} An [[indoleamine]] [[derivative]], the N-trimethyl analogue of [[psilocybin]], found in the [[mushroom]]s {{taxlink|Inocybe aeruginascens|species}} and {{taxlink|Pholiotina cyanopus|species}}.

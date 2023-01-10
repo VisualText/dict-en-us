@@ -1,0 +1,13 @@
+adinazolam
+==English==
+{{wikipedia}}
+
+===Etymology===
+From {{af|en||-azolam|t2=diazepam derivative}}.
+
+{{rfe|en}}
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|pharmaceutical drug}} A [[benzodiazepine]] drug with [[anxiolytic]], [[anticonvulsant]], [[sedative]], and [[antidepressant]] properties.

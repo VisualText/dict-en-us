@@ -1,0 +1,10 @@
+acemetacin
+==English==
+
+===Noun===
+{{en-noun|-}}
+{{wikipedia}}
+
+# {{lb|en|pharmaceutical drug}} A [[nonsteroidal anti-inflammatory drug]] used for the treatment of [[osteoarthritis]], [[rheumatoid arthritis]], lower back pain, and [[postoperative]] pain.
+
+[[Category:English terms suffixed with -metacin]]

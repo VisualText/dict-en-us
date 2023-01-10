@@ -1,0 +1,17 @@
+adenomyomatosis
+==English==
+
+===Etymology===
+{{suffix|en|adenomyoma|osis}}
+
+===Noun===
+{{en-noun|~|adenomyomatoses}}
+
+# {{lb|en|pathology}} The [[condition]] of having [[adenomyoma]]s.
+
+====Translations====
+{{trans-top|condition}}
+* Finnish: {{t|fi|adenomyomatoosi}}
+{{trans-mid}}
+* Portuguese: {{t|pt|adenomiomatose|f}}
+{{trans-bottom}}

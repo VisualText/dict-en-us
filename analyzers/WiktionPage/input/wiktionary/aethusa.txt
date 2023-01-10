@@ -1,0 +1,7 @@
+aethusa
+==French==
+
+===Noun===
+{{fr-noun|f}}
+
+# [[fool's parsley]] (plant of the genus {{taxlink|Aethusa|genus|noshow=1|ver=161128}})

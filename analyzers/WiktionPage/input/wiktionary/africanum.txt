@@ -1,0 +1,7 @@
+africanum
+==Latin==
+
+===Adjective===
+{{la-adj-form|āfricānum}}
+
+# {{inflection of|la|āfricānus||nom//acc//voc|n|s|;|acc|m|s}}

@@ -1,0 +1,8 @@
+abemaciclib
+==English==
+{{wikipedia}}
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|pharmaceutical drug}} An [[antineoplastic]] cyclin-dependent [[kinase]] [[inhibitor]] used to treat [[breast cancer]].

@@ -1,0 +1,24 @@
+aducanumab
+==English==
+{{wikipedia}}
+
+===Etymology===
+{{af|en|-n-|-umab|t1=neural|t2=human monoclonal antibody}}.
+
+{{rfe|en}}
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|pharmaceutical drug}} A [[human]] [[monoclonal antibody]] and [[drug]] [[candidate]] designed for treatment of [[Alzheimer's disease]].
+#* {{quote-journal|en|date=July 19, 2015|author=The New York Times|title=Greece’s Debt Payments, Apple Earnings and Credit Suisse Results|work=New York Times|url=http://www.nytimes.com/2015/07/20/business/greeces-debt-payments-apple-earnings-and-credit-suisse-results.html
+|passage=Biogen’s drug, '''aducanumab''', slowed the decline in cognition in an early-stage trial.}}
+
+----
+
+==Spanish==
+
+===Noun===
+{{es-noun|m}}
+
+# [[#English|aducanumab]]

@@ -1,0 +1,20 @@
+acedapsone
+==English==
+
+===Etymology===
+{{blend|en|acetate|dapsone}}
+
+===Noun===
+{{wikipedia}}
+{{en-noun|-}}
+
+# {{lb|en|pharmaceutical drug}} An [[antimicrobial]] [[drug]] that is used to treat [[leprosy]].
+#* {{quote-journal|en|journal=The Lancet|volume=2|issue=7723|date=4 September 1971|page=525|passage=We report here the successful use of a new repository sulphone, '''acedapsone''', in a field trial in Micronesia, both for the treatment of active leprosy cases and for the prevention of leprosy in an exposed, highly susceptible population.}}
+#* {{quote-book|en|title=Antibiotic and Chemotherapy|page=479|author=Roger G. Finch|year=2010|passage=In the 1960s and 1970s chemoprophylaxis with dapsone and '''acedapsone''' was investigated.|url=https://books.google.com/books?id=DE4Mxc3aesEC&lpg=PA749&dq=%22acedapsone%22&pg=PA749#v=onepage&q=%22acedapsone%22&f=false}}
+#* {{quote-journal|en|journal=Progress in Medicinal Chemistry|volume=8|passage=The more intense effect arises, of course, from the relatively facile non-enzymatic hydrolysis of these compounds as opposed to the enzyme-dependent hydrolysis of '''acedapsone'''.|url=https://books.google.com/books?id=CBk_ZfVPipUC&lpg=PA264&dq=%22acedapsone%22&pg=PA264#v=onepage&q=%22acedapsone%22&f=false|title=Recent advances in the chemotherapy of malaria|author=R. M. Pinder|year=2011}}
+
+====Translations====
+{{trans-top|antimicrobial drug that is used to treat leprosy}}
+* Portuguese: {{t|pt|acedapsona|f}}
+{{trans-mid}}
+{{trans-bottom}}

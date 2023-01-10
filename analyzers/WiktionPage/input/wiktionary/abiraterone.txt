@@ -1,0 +1,17 @@
+abiraterone
+==English==
+{{wp}}
+
+===Etymology===
+From {{af|en||-terone|t2=antiandrogen}}.
+
+{{rfe|en}}
+
+===Pronunciation===
+* {{a|GenAm}} {{IPA|en|/æb.ɪˈɹæt.əˌɹoʊn/}}
+* {{a|RP}} {{IPA|en|/æb.ɪˈɹæt.ə.ɹəʊn/}}
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|pharmaceutical drug}} A [[pyridine]]-substituted [[sterol]] used as a [[drug]] against {{w|prostate cancer}}.

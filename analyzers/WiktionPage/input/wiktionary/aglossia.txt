@@ -1,0 +1,21 @@
+aglossia
+==English==
+
+===Etymology===
+From {{af|en|a-|-glossia}}.
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|anatomy}} The absence of a [[tongue]].
+
+====Related terms====
+* {{l|en|aglossal}}
+
+====Translations====
+{{trans-top|tonguelessness}}
+* Greek: {{t+|el|αγλωσσία|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{cln|en|terms suffixed with -glossia}}

@@ -1,0 +1,7 @@
+adenomyoepithelioma
+==English==
+
+===Noun===
+{{en-noun|s|adenomyoepitheliomata}}
+
+# {{lb|en|pathology}} [[adenomyomatous]] [[epithelioma]]

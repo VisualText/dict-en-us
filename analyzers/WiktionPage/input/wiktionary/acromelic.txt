@@ -1,0 +1,14 @@
+acromelic
+==English==
+
+===Adjective===
+{{en-adj|-}}
+
+# {{lb|en|anatomy|pathology}} Affecting the [[hand]]s or [[foot|feet]].
+
+====Related terms====
+* {{l|en|acromelia}}
+* {{l|en|acromesomelic}}
+
+[[Category:English terms prefixed with acro-]]
+[[Category:English terms suffixed with -ic]]

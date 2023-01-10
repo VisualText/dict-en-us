@@ -1,0 +1,10 @@
+adiaspiromycosis
+==English==
+
+===Noun===
+{{en-noun|adiaspiromycoses}}
+
+# A [[pulmonary]] [[infection]], primarily of [[rodent]]s, that is caused by [[soil]] [[fungus|fungi]] of the genus {{taxlink|Emmonsia|genus}}
+
+====Related terms====
+* [[adiaspore]]

@@ -1,0 +1,18 @@
+adenosarcoma
+==English==
+
+===Etymology===
+{{prefix|en|adeno|sarcoma}}
+
+===Noun===
+{{en-noun|s|adenosarcomata}}
+{{wikipedia}}
+
+# An uncommon form of [[cancer]] that arises from [[mesenchymal]] [[tissue]] and has a [[benign]] [[glandular]] component.
+
+====Translations====
+{{trans-top|form of cancer}}
+* Finnish: {{t|fi|adenosarkooma}}
+{{trans-mid}}
+* Portuguese: {{t|pt|adenossarcoma|m}}
+{{trans-bottom}}

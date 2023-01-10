@@ -1,0 +1,11 @@
+acetotartrate
+==English==
+
+===Etymology===
+From {{prefix|en|aceto|tartrate}}.
+
+===Noun===
+{{wikipedia|Aluminium acetotartrate}}
+{{en-noun}}
+
+# {{lb|en|organic chemistry}} Any [[salt]] of both [[tartaric acid]] and [[acetic acid]]

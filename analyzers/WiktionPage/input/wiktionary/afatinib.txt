@@ -1,0 +1,15 @@
+afatinib
+==English==
+
+===Etymology===
+{{unknown|en|Origin unknown}}; the {{glossary|suffix}} {{m|en|-tinib}} denotes a [[pharmaceutical]] [[drug#Noun|drug]] that is a [[tyrosine]] [[kinase]] [[inhibitor]].
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|pharmaceutical drug}} A drug against non-small cell lung carcinoma.
+
+===Further reading===
+* {{pedia}}
+
+[[Category:English terms suffixed with -tinib]]

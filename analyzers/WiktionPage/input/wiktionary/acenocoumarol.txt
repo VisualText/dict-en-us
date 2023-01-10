@@ -1,0 +1,14 @@
+acenocoumarol
+{{also|acénocoumarol}}
+==English==
+{{wp}}
+
+===Alternative forms===
+* {{alter|en|acenocoumarin}}
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|pharmaceutical drug}} The [[coumarin]] compound 4-[[hydroxy]]-3-(1-(4-[[nitrophenyl]])-3-[[oxo-|oxo]][[butyl]])-2''H''-1-[[benzopyranone|benzopyran-2-one]] that is used as an [[anticoagulant]] in a manner similar to [[warfarin]].
+
+[[Category:English terms suffixed with -arol]]

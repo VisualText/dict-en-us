@@ -1,0 +1,10 @@
+adenoneuroendocrine
+==English==
+
+===Etymology===
+{{prefix|en|adeno|neuroendocrine}}
+
+===Adjective===
+{{en-adj|-}}
+
+# {{lb|en|pathology}} [[adenoid]] and [[neuroendocrine]]

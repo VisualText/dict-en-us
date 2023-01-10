@@ -1,0 +1,13 @@
+aclidinium
+==English==
+{{wp}}
+
+===Etymology===
+From {{af|en||-clidinium|t2=muscarinic receptor agonist/antagonist}}.
+
+{{rfe|en}}
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|pharmaceutical drug}} A particular [[w:muscarinic acetylcholine receptor|muscarinic]] [[antagonist]], administered in the [[bromide]] form.

@@ -1,0 +1,17 @@
+adipiodone
+==English==
+{{wikipedia}}
+
+===Etymology===
+From {{af|en|adipoyl|alt1=adip(oyl)|-iod-|-one|t2=iodine-containing contrast medium}}.
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|pharmaceutical drug}} A particular [[molecule]] used as a [[contrast medium]].
+
+====Translations====
+{{trans-top|contrast medium}}
+* Finnish: {{t|fi|adipiodoni}}
+{{trans-mid}}
+{{trans-bottom}}

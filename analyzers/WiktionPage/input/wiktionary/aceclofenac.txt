@@ -1,0 +1,10 @@
+aceclofenac
+==English==
+
+===Noun===
+{{en-noun|-}}
+{{wikipedia}}
+
+# {{lb|en|pharmaceutical drug}} A [[nonsteroidal anti-inflammatory drug]].
+
+[[Category:English terms suffixed with -clofenac]]

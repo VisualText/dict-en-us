@@ -1,0 +1,7 @@
+africanae
+==Latin==
+
+===Adjective===
+{{la-adj-form|āfricānae}}
+
+# {{inflection of|la|āfricānus||nom//voc|f|p|;|gen//dat|f|s}}

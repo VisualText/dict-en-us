@@ -1,0 +1,13 @@
+acrisorcin
+==English==
+{{wikipedia}}
+
+===Etymology===
+{{blend|en|acridine|resorcin}}.
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|pharmaceutical drug}} A [[topical]] [[antiinfective]], typically used as a [[fungicide]], whose [[active ingredient]]s are 9-[[aminoacridine]] and 4-[[hexylresorcinol]].
+
+[[Category:English 4-syllable words]]

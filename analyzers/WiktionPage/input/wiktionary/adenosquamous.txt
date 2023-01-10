@@ -1,0 +1,10 @@
+adenosquamous
+==English==
+
+===Etymology===
+{{prefix|en|adeno|squamous}}
+
+===Adjective===
+{{en-adj|-}}
+
+# Having both [[glandular]] ([[adenoid]]) and [[squamous]] characteristics.

@@ -1,0 +1,14 @@
+acephaly
+==English==
+
+===Etymology===
+{{confix|en|a|cephaly}}
+
+===Pronunciation===
+* {{rhymes|en|ɛfəli|s=4}}
+
+===Noun===
+{{wikipedia}}
+{{en-noun|-}}
+
+# The congenital lack of a [[head]] (especially in a parasitic twin)

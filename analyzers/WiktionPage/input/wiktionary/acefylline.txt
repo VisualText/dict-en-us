@@ -1,0 +1,14 @@
+acefylline
+==English==
+
+===Noun===
+{{wikipedia}}
+{{en-noun|-}}
+
+# {{lb|en|medicine}} A [[stimulant]] [[drug]], having a structure based on [[xanthine]], that acts as an [[adenosine]] [[receptor]] [[antagonist]]
+
+====Synonyms====
+* {{l|en|acetyloxytheophylline}}
+
+====Derived terms====
+* {{l|en|acefylline clofibrol}}

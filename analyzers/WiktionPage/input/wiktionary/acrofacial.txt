@@ -1,0 +1,17 @@
+acrofacial
+==English==
+
+===Etymology===
+From {{prefix|en|acro|facial}}.
+
+===Pronunciation===
+* {{rhymes|en|eɪʃəl|s=4}}
+
+===Adjective===
+{{en-adj|-}}
+
+# {{lb|en|anatomy|pathology}} Of, pertaining to, or affecting the [[face]] and the [[hand]]s or [[foot|feet]]
+
+====Derived terms====
+* {{l|en|acrofacial dysostosis}}, {{l|en|Nager acrofacial dysostosis}}
+* {{l|en|acrofacial syndrome}}

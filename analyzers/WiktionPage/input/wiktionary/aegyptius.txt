@@ -1,0 +1,34 @@
+aegyptius
+==Latin==
+
+===Etymology===
+Derived from {{der|la|grc|Αἰγύπτιος||Egyptian}}.
+
+===Pronunciation===
+* {{la-IPA|eccl=yes|aegyptius}}
+
+===Adjective===
+{{la-adj|aegyptius}}
+
+# [[Egyptian]]; of or pertaining to [[Egypt]]
+
+====Declension====
+{{la-adecl|aegyptius}}
+
+====Synonyms====
+* {{l|it|aegyptiacus}}
+
+====Related terms====
+* {{l|it|Aegyptus}}
+
+====Descendants====
+{{top2}}
+* Inherited:
+** {{desc|it|ghezzo}}
+* Borrowed:
+** {{desc|ca|egipci|bor=1}}
+** {{desc|gl|exipcio|bor=1}}
+** {{desc|it|egizio|bor=1}}
+** {{desc|pt|egípcio|bor=1}}
+** {{desc|es|egipcio|bor=1}}
+{{bottom}}

@@ -1,0 +1,57 @@
+aciclovir
+==English==
+[[File:2-amino-9-((2-hydroxyethoxy)methyl)-1H-purin-6(9H)-one 200.svg|thumb|Chemical structure of '''aciclovir''']]
+{{wp}}
+
+===Alternative forms===
+* {{alter|en|acyclovir|acycloguanosine}}
+
+===Etymology===
+From {{af|en|acycloguanosine|alt1=acyclo(guanosine)|-vir|t2=antiviral}}.
+
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/eɪˈsʌɪ.klə(ʊ)ˌvɪə/}}
+* {{a|GA}} {{IPA|en|/eɪˈsaɪ.kloʊˌvɪɹ/}}
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|pharmaceutical drug}} A [[cyclic]] [[synthetic]] [[nucleoside]] C<sub>8</sub>H<sub>11</sub>N<sub>5</sub>O<sub>3</sub> used as an [[antiviral]] [[drug]] (trademarks '''[[Avirax]]''', '''[[Zovirax]]''') chiefly in the treatment of [[chicken pox]], [[shingles]], the [[genital]] form of [[herpes simplex]], and [[AIDS]].
+#*'''1997''', {{w|Roy Porter}}, ''The Greatest Benefit to Mankind'', Folio Society 2016, p. 443:
+#*:In cells infected with the herpes virus, '''acyclovir''' is converted to a metabolic blocking agent, thereby largely overcoming the old and plaguing problem of toxicity to the host.
+#* {{quote-book|en|year=2005|author={{w|Donald Hall}}|title=The Best Day the Worst Day: Life with Jane Kenyon|location=Boston|publisher={{w|Houghton Mifflin Harcourt|Houghton Mifflin Company}}|isbn=0618478019|page={{gbooks|OoSwJtwmbZcC|98|acyclovir}}|passage=From the description, Letha felt sure Jane had herpes zoster, or shingles, which often strikes cancer patients or others with depressed immune systems. Jane spent another week in the Bubble, treated with '''acyclovir'''.}}
+
+====Derived terms====
+* {{l|en|-ciclovir||bicyclic heterocycle compound}}
+
+====Translations====
+{{trans-top}}
+* Armenian: {{t|hy|ացիկլովիր}}
+* Bashkir: {{t|ba|ацикловир}}
+* Chinese:
+*: Mandarin: {{t+|cmn|阿昔洛韋}}, {{t+|cmn|阿昔洛韦|tr=xīluòwéi}}, {{t|cmn|無環鳥苷}}, {{t|cmn|无环鸟苷|tr=wúhuán niǎogān}}
+* Finnish: {{t|fi|asikloviiri}}
+* French: {{t+|fr|acyclovir|m}}
+* Galician: {{t|gl|aciclovir|m}}
+* German: {{t|de|Aciclovir|m}}
+* Greek: {{t|el|ακυκλοβίρη|f|sc=Grek}}
+{{trans-mid}}
+* Indonesian: {{t|id|asiklovir}}
+* Japanese: {{t|ja|アシクロビル|tr=ashikurobiru}}
+* Kazakh: {{t|kk|ацикловир}}
+* Korean: {{t|ko|아시클로버}}
+* Kyrgyz: {{t|ky|ацикловир}}
+* Malayalam: {{t|ml|എസിക്ലോവിർ}}
+* Oriya: {{t|or|ଆସାଇକ୍ଲୋଭିର}}
+* Persian: {{t|fa|اسیکلوویر}}
+* Polish: {{t+|pl|acyklowir|m}}
+* Telugu: {{t|te|ఎసిక్లోవిర్}}
+* Thai: {{t|th|อะไซโคลเวียร์}}
+* Turkish: {{t|tr|asiklovir}}
+{{trans-bottom}}
+
+===References===
+* {{R:Lexico|acyclovir}}
+* {{R:MWO|acyclovir}}
+
+[[Category:English terms prefixed with a-]]

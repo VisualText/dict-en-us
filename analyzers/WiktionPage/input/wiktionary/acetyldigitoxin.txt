@@ -1,0 +1,17 @@
+acetyldigitoxin
+==English==
+{{wikipedia}}
+
+===Etymology===
+{{compound|en|acetyl|digitoxin}}
+
+===Noun===
+{{en-noun}}
+
+# {{lb|en|organic chemistry}} A class of [[cardiac]] [[glycoside]], an [[acetyl]] [[derivative]] of [[digitoxin]].
+
+====Translations====
+{{trans-top|drug}}
+* Finnish: {{t|fi|asetyylidigitoksiini}}
+{{trans-mid}}
+{{trans-bottom}}

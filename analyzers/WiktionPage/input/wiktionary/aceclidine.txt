@@ -1,0 +1,11 @@
+aceclidine
+==English==
+{{wikipedia}}
+
+===Etymology===
+From {{af|en|acetate|alt1=ace(tate)|-clidine|t2=muscarinic receptor agonist/antagonist}}.
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|pharmaceutical drug}} A [[parasympathomimetic]] [[miotic]] agent that is used to treat narrow angle [[glaucoma]].

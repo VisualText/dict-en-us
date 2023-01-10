@@ -1,0 +1,11 @@
+afelimomab
+==English==
+{{wikipedia}}
+
+===Pronunciation===
+* {{IPA|en|/ˌæfɛˈlɪməmæb/}}
+
+===Noun===
+{{en-noun|-}}
+
+# A [[monoclonal antibody]] that reduces the [[concentration]] of [[interleukin]]-6 in patients with [[sepsis]].

@@ -1,0 +1,19 @@
+aeruginosa
+==Latin==
+
+===Etymology===
+Inflected form of {{m|la|aerūginōsus||rusty}}.
+
+===Pronunciation===
+* {{la-IPA|aerūginōsa|ann=1}}
+* {{la-IPA|aerūginōsā|ann=1}}
+
+===Adjective===
+{{la-adj-form|aerūginōsa}}
+
+# {{inflection of|la|aerūginōsus||nom//voc|f|s|;|nom//acc//voc|n|p}}
+
+===Adjective===
+{{la-adj-form|aerūginōsā}}
+
+# {{inflection of|la|aerūginōsus||abl|f|s}}

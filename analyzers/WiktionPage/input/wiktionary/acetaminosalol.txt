@@ -1,0 +1,11 @@
+acetaminosalol
+==English==
+{{wikipedia}}
+
+===Etymology===
+From {{af|en|acetaminophen|alt1=acetamino(phen)|-sal-|-ol|t2=salicylic acid derivative}}.
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|pharmaceutical drug}} The [[paracetamol]] [[ester]] of [[salicylic acid]], once used as an [[analgesic]].

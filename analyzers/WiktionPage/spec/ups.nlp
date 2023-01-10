@@ -1,14 +1,20 @@
 ###############################################
-# FILE: kbinit
+# FILE: headerUp
 # SUBJ: comment
 # AUTH: David de Hilster
-# CREATED: 2021-8-11 15:44:9
+# CREATED: 2022-10-6 19:12:48
 # MODIFIED:
 ###############################################
 
-@CODE
+@NODES _ROOT
 
-G("numbers") = getconcept(findroot(),"numbers");
-rmchildren(G("numbers"));
+@PRE
+<1,1> var("up");
 
-@@CODE
+@POST
+splice(1,1);
+
+@RULES
+_xNIL <-
+	_LINE	### (1)
+	@@

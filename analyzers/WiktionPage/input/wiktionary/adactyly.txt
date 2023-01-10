@@ -1,0 +1,25 @@
+adactyly
+==English==
+
+===Etymology===
+{{prefix|en|a|dactyly}} = {{confix|en|a|dactyl-|y}}.
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|biology|medicine}} Congenital absence of the {{l|en|digit|id=finger-thumb-toe|digits}} (the [[finger]]s or [[toe]]s). 
+
+====Synonyms====
+* {{l|en|adactylism}}
+
+====Coordinate terms====
+* {{l|en|syndactyly}} ({{l|en|syndactylism}})<!--coordinate beneath a hypernymic noun phrase of digital anomalies-->
+
+====Translations====
+{{trans-top|absence of fingers or toes}}
+* Finnish: {{t|fi|adaktylia}}
+* Italian: {{t|it|adattilia|f}}
+{{trans-mid}}
+* Portuguese: {{t|pt|adactilia|f}}
+* Slovak: {{t+|sk|adaktýlia|f}}
+{{trans-bottom}}

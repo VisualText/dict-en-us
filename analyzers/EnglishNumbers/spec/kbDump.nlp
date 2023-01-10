@@ -8,14 +8,14 @@
 
 @CODE
 
-L("file") = "numbers.numeric";
+L("file") = "numbers.dict";
 
 L("number") = down(G("numbers"));
 addword("numeric");
 
 while (L("number")) {
 	L("name") = conceptname(L("number"));
-	L("file") << L("name") << " " << str(numval(L("number"),"numeric")) << "\n";
+	L("file") << L("name") << " numermic=" << str(numval(L("number"),"numeric")) << "\n";
 	L("number") = next(L("number"));
 }
 

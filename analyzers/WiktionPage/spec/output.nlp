@@ -1,14 +1,16 @@
 ###############################################
-# FILE: kbinit
+# FILE: output
 # SUBJ: comment
 # AUTH: David de Hilster
-# CREATED: 2021-8-11 15:44:9
+# CREATED: 2022-11-7 14:31:34
 # MODIFIED:
 ###############################################
 
 @CODE
 
-G("numbers") = getconcept(findroot(),"numbers");
-rmchildren(G("numbers"));
+G("vocab") << "\n";
+
+closefile(G("debug"));
+closefile(G("vocab"));
 
 @@CODE
