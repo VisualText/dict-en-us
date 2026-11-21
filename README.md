@@ -1,4 +1,6 @@
 # American English Dictionary
+
+[![PyPI: NLPPlus](https://img.shields.io/pypi/v/NLPPlus?label=PyPI%20NLPPlus&logo=pypi&logoColor=white)](https://pypi.org/project/NLPPlus/) [![npm: nlpplus](https://img.shields.io/npm/v/nlpplus?label=npm%20nlpplus&logo=npm)](https://www.npmjs.com/package/nlpplus)
 The purpose of this repository is to store the current version of the English Dictionary. It was first generated in the early 2000s using Wordnet which is somewhat outdated but represents the current version with only parts of speech. This version is now found in the file all.dict using the new dict format for NLP++.
 
 A new project involving parsing the English Wiktionary is underway with hopes to generate a comprehensive dictionary with parts of speech and other information such as roots, 
